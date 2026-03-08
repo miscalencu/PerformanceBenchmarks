@@ -26,4 +26,4 @@ dotnet run -c Release --filter *EmailParsing*
 
 ## Benchmarks
 
-- Span<T> Performance Benchmarks - more details [here](SpanBenchmarks/README.md).
+- Span<T> Performance Benchmarks - more details [here](PerformanceBenchmarks/SpanBenchmarks/README.md).
